@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{BA30912C-71F0-605B-17CE-B0E59CAE9068}") = "RedCube", "Assembly-CSharp.csproj", "{B4EE2614-DC4F-446E-43A8-9C5F83665C19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4EE2614-DC4F-446E-43A8-9C5F83665C19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4EE2614-DC4F-446E-43A8-9C5F83665C19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4EE2614-DC4F-446E-43A8-9C5F83665C19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4EE2614-DC4F-446E-43A8-9C5F83665C19}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

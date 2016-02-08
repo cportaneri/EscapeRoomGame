@@ -1,0 +1,17 @@
+/Users/anastasia/Teaching/LRI-M2R/MR_Tangibles/M2R-Tangibles-2015-2016/programming/RedCube/Temp/bin/Debug/UnityEngine.dll
+/Users/anastasia/Teaching/LRI-M2R/MR_Tangibles/M2R-Tangibles-2015-2016/programming/RedCube/Temp/bin/Debug/UnityEditor.dll
+/Users/anastasia/Teaching/LRI-M2R/MR_Tangibles/M2R-Tangibles-2015-2016/programming/RedCube/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/anastasia/Teaching/LRI-M2R/MR_Tangibles/M2R-Tangibles-2015-2016/programming/RedCube/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/anastasia/Teaching/LRI-M2R/MR_Tangibles/M2R-Tangibles-2015-2016/programming/RedCube/Temp/bin/Debug/Mono.Cecil.dll
+/Users/anastasia/Teaching/LRI-M2R/MR_Tangibles/M2R-Tangibles-2015-2016/programming/RedCube/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/anastasia/Teaching/LRI-M2R/MR_Tangibles/M2R-Tangibles-2015-2016/programming/RedCube/Temp/bin/Debug/Unity.DataContract.dll
+/Users/anastasia/Teaching/LRI-M2R/MR_Tangibles/M2R-Tangibles-2015-2016/programming/RedCube/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/anastasia/Teaching/LRI-M2R/MR_Tangibles/M2R-Tangibles-2015-2016/programming/RedCube/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/anastasia/Teaching/LRI-M2R/MR_Tangibles/M2R-Tangibles-2015-2016/programming/RedCube/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/anastasia/Teaching/LRI-M2R/MR_Tangibles/M2R-Tangibles-2015-2016/programming/RedCube/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/anastasia/Teaching/LRI-M2R/MR_Tangibles/M2R-Tangibles-2015-2016/programming/RedCube/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/anastasia/Teaching/LRI-M2R/MR_Tangibles/M2R-Tangibles-2015-2016/programming/RedCube/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/anastasia/Teaching/LRI-M2R/MR_Tangibles/M2R-Tangibles-2015-2016/programming/RedCube/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/anastasia/Teaching/LRI-M2R/MR_Tangibles/M2R-Tangibles-2015-2016/programming/RedCube/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/anastasia/Teaching/LRI-M2R/MR_Tangibles/M2R-Tangibles-2015-2016/programming/RedCube/obj/Debug/Assembly-CSharp.dll
+/Users/anastasia/Teaching/LRI-M2R/MR_Tangibles/M2R-Tangibles-2015-2016/programming/RedCube/obj/Debug/Assembly-CSharp.dll.mdb

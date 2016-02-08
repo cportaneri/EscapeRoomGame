@@ -1,0 +1,168 @@
+fileFormatVersion: 2
+guid: fb56e9ad78d67744aa3445908c9b12ca
+timeCreated: 1454388977
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Mesh10_G_2_1_Group1_Model
+    100004: Mesh11_botl1_1_skp9jCCfg1_Group_1_1_Model
+    100006: Mesh12_botl1_1_skp9jCCfg1_Group_1_1_Model
+    100008: Mesh13_cap1_1_skp9jCCfg1_Group_1_1_Model
+    100010: Mesh14_cap1_1_skp9jCCfg1_Group_1_1_Model
+    100012: Mesh15_lic1_1_skp9jCCfg1_Group_1_1_Model
+    100014: Mesh16_lic1_1_skp9jCCfg1_Group_1_1_Model
+    100016: Mesh17_lic1_1_skp9jCCfg1_Group_1_1_Model
+    100018: Mesh18_GO1_Group_1_1_Model
+    100020: Mesh19_GO1_Group_1_1_Model
+    100022: Mesh1_bot3_1_skpiFWclu1_Group1_Model
+    100024: Mesh2_bot3_1_skpiFWclu1_Group1_Model
+    100026: Mesh3_bot3_1_skpiFWclu1_Group1_Model
+    100028: Mesh4_cap3_1_skpiFWclu1_Group1_Model
+    100030: Mesh5_cap3_1_skpiFWclu1_Group1_Model
+    100032: Mesh6_lic3_1_skpiFWclu1_Group1_Model
+    100034: Mesh7_lic3_1_skpiFWclu1_Group1_Model
+    100036: Mesh8_lic3_1_skpiFWclu1_Group1_Model
+    100038: Mesh9_lic3_1_skpiFWclu1_Group1_Model
+    400000: //RootNode
+    400002: Mesh10_G_2_1_Group1_Model
+    400004: Mesh11_botl1_1_skp9jCCfg1_Group_1_1_Model
+    400006: Mesh12_botl1_1_skp9jCCfg1_Group_1_1_Model
+    400008: Mesh13_cap1_1_skp9jCCfg1_Group_1_1_Model
+    400010: Mesh14_cap1_1_skp9jCCfg1_Group_1_1_Model
+    400012: Mesh15_lic1_1_skp9jCCfg1_Group_1_1_Model
+    400014: Mesh16_lic1_1_skp9jCCfg1_Group_1_1_Model
+    400016: Mesh17_lic1_1_skp9jCCfg1_Group_1_1_Model
+    400018: Mesh18_GO1_Group_1_1_Model
+    400020: Mesh19_GO1_Group_1_1_Model
+    400022: Mesh1_bot3_1_skpiFWclu1_Group1_Model
+    400024: Mesh2_bot3_1_skpiFWclu1_Group1_Model
+    400026: Mesh3_bot3_1_skpiFWclu1_Group1_Model
+    400028: Mesh4_cap3_1_skpiFWclu1_Group1_Model
+    400030: Mesh5_cap3_1_skpiFWclu1_Group1_Model
+    400032: Mesh6_lic3_1_skpiFWclu1_Group1_Model
+    400034: Mesh7_lic3_1_skpiFWclu1_Group1_Model
+    400036: Mesh8_lic3_1_skpiFWclu1_Group1_Model
+    400038: Mesh9_lic3_1_skpiFWclu1_Group1_Model
+    2300000: Mesh10_G_2_1_Group1_Model
+    2300002: Mesh11_botl1_1_skp9jCCfg1_Group_1_1_Model
+    2300004: Mesh12_botl1_1_skp9jCCfg1_Group_1_1_Model
+    2300006: Mesh13_cap1_1_skp9jCCfg1_Group_1_1_Model
+    2300008: Mesh14_cap1_1_skp9jCCfg1_Group_1_1_Model
+    2300010: Mesh15_lic1_1_skp9jCCfg1_Group_1_1_Model
+    2300012: Mesh16_lic1_1_skp9jCCfg1_Group_1_1_Model
+    2300014: Mesh17_lic1_1_skp9jCCfg1_Group_1_1_Model
+    2300016: Mesh18_GO1_Group_1_1_Model
+    2300018: Mesh19_GO1_Group_1_1_Model
+    2300020: Mesh1_bot3_1_skpiFWclu1_Group1_Model
+    2300022: Mesh2_bot3_1_skpiFWclu1_Group1_Model
+    2300024: Mesh3_bot3_1_skpiFWclu1_Group1_Model
+    2300026: Mesh4_cap3_1_skpiFWclu1_Group1_Model
+    2300028: Mesh5_cap3_1_skpiFWclu1_Group1_Model
+    2300030: Mesh6_lic3_1_skpiFWclu1_Group1_Model
+    2300032: Mesh7_lic3_1_skpiFWclu1_Group1_Model
+    2300034: Mesh8_lic3_1_skpiFWclu1_Group1_Model
+    2300036: Mesh9_lic3_1_skpiFWclu1_Group1_Model
+    3300000: Mesh10_G_2_1_Group1_Model
+    3300002: Mesh11_botl1_1_skp9jCCfg1_Group_1_1_Model
+    3300004: Mesh12_botl1_1_skp9jCCfg1_Group_1_1_Model
+    3300006: Mesh13_cap1_1_skp9jCCfg1_Group_1_1_Model
+    3300008: Mesh14_cap1_1_skp9jCCfg1_Group_1_1_Model
+    3300010: Mesh15_lic1_1_skp9jCCfg1_Group_1_1_Model
+    3300012: Mesh16_lic1_1_skp9jCCfg1_Group_1_1_Model
+    3300014: Mesh17_lic1_1_skp9jCCfg1_Group_1_1_Model
+    3300016: Mesh18_GO1_Group_1_1_Model
+    3300018: Mesh19_GO1_Group_1_1_Model
+    3300020: Mesh1_bot3_1_skpiFWclu1_Group1_Model
+    3300022: Mesh2_bot3_1_skpiFWclu1_Group1_Model
+    3300024: Mesh3_bot3_1_skpiFWclu1_Group1_Model
+    3300026: Mesh4_cap3_1_skpiFWclu1_Group1_Model
+    3300028: Mesh5_cap3_1_skpiFWclu1_Group1_Model
+    3300030: Mesh6_lic3_1_skpiFWclu1_Group1_Model
+    3300032: Mesh7_lic3_1_skpiFWclu1_Group1_Model
+    3300034: Mesh8_lic3_1_skpiFWclu1_Group1_Model
+    3300036: Mesh9_lic3_1_skpiFWclu1_Group1_Model
+    4300000: Mesh10_G_2_1_Group1_Model
+    4300002: Mesh11_botl1_1_skp9jCCfg1_Group_1_1_Model
+    4300004: Mesh12_botl1_1_skp9jCCfg1_Group_1_1_Model
+    4300006: Mesh13_cap1_1_skp9jCCfg1_Group_1_1_Model
+    4300008: Mesh14_cap1_1_skp9jCCfg1_Group_1_1_Model
+    4300010: Mesh15_lic1_1_skp9jCCfg1_Group_1_1_Model
+    4300012: Mesh16_lic1_1_skp9jCCfg1_Group_1_1_Model
+    4300014: Mesh17_lic1_1_skp9jCCfg1_Group_1_1_Model
+    4300016: Mesh18_GO1_Group_1_1_Model
+    4300018: Mesh19_GO1_Group_1_1_Model
+    4300020: Mesh1_bot3_1_skpiFWclu1_Group1_Model
+    4300022: Mesh2_bot3_1_skpiFWclu1_Group1_Model
+    4300024: Mesh3_bot3_1_skpiFWclu1_Group1_Model
+    4300026: Mesh4_cap3_1_skpiFWclu1_Group1_Model
+    4300028: Mesh5_cap3_1_skpiFWclu1_Group1_Model
+    4300030: Mesh6_lic3_1_skpiFWclu1_Group1_Model
+    4300032: Mesh7_lic3_1_skpiFWclu1_Group1_Model
+    4300034: Mesh8_lic3_1_skpiFWclu1_Group1_Model
+    4300036: Mesh9_lic3_1_skpiFWclu1_Group1_Model
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

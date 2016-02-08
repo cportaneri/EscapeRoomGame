@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedCubeTouch.CSharp", "RedCubeTouch.CSharp.csproj", "{911CBAC9-80BD-A4F0-496A-A987DC99EEF1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedCubeTouch.CSharp.Editor", "RedCubeTouch.CSharp.Editor.csproj", "{D96E9AF0-6699-B93B-D986-40353320B8B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{911CBAC9-80BD-A4F0-496A-A987DC99EEF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{911CBAC9-80BD-A4F0-496A-A987DC99EEF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{911CBAC9-80BD-A4F0-496A-A987DC99EEF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{911CBAC9-80BD-A4F0-496A-A987DC99EEF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D96E9AF0-6699-B93B-D986-40353320B8B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D96E9AF0-6699-B93B-D986-40353320B8B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D96E9AF0-6699-B93B-D986-40353320B8B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D96E9AF0-6699-B93B-D986-40353320B8B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
