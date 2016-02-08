@@ -16,13 +16,10 @@ Windows only
 
 --- SOFTWARE Used ---
 
-Unity 3D for Android
-
-ARToolkit for the augmented reality part
-
-Blender to model the 3D object
-
-AutoCAD and SketchOn to create the real objects with lazer cutting technology
+- Unity 3D for Android
+- ARToolkit for the augmented reality part
+- Blender to model the 3D object
+- AutoCAD and SketchOn to create the real objects with lazer cutting technology
 
 --- HOW TO LAUNCH THE GAME ---
 
@@ -32,9 +29,7 @@ However the markers pattern are in this folder and in demonstration2.jpg you wil
 
 If you want to get the application you can:
 
-  Download the zip file, open the Assets/SimpleScene.unity with Unity
-  
-  Link your android device with your computer (be sure the Android SDK is installed)
-  
-  Build the Unity scene into your android and lauch the application in your phone
+- Download the zip file, open the Assets/SimpleScene.unity with Unity
+- Link your android device with your computer (be sure the Android SDK is installed)
+- Build the Unity scene into your android and launch the application in your phone
 
